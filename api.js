@@ -1,3 +1,5 @@
-function(){
+function apicall(){
     alert("hai")
 }
+
+apicall();
